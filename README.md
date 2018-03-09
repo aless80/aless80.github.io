@@ -6,7 +6,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 ### Python, Django
 
-| Repo          | Technologies     | Status |
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+
+| Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | Work in progress |
 | [pypanda](https://github.com/aless80/pypanda)| centered      | @icon-fa-circle |
