@@ -5,6 +5,13 @@ Please refer to my [website](https://aless80.pythonanywhere.com/). My site is st
 Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get a glimpse of what technologies I am using. 
 
 ### Python, Django
+
+| Repo          | Technologies     | Status |
+|: ------------- |:-------------|:-----:|
+| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | Work in progress |
+| [pypanda](https://github.com/aless80/pypanda)| centered      | @icon-fa-circle |
+| [tantrix](https://github.com/aless80/tantrix) | are neat      | @icon-fa-check |
+
 * [Djangoresume](https://github.com/aless80/Djangoresume)
 * [pypanda](https://github.com/aless80/pypanda)
 * [tantrix](https://github.com/aless80/tantrix)
