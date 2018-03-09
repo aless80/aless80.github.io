@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to my site on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aless80/aless80.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get a glimpse of what technologies I am using. 
 
-### Markdown
+### Python, Django
+* [Djangoresume](https://github.com/aless80/Djangoresume)
+* [pypanda](https://github.com/aless80/pypanda)
+* [tantrix](https://github.com/aless80/tantrix)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Web technologies
+* [SiteRedirect](https://github.com/aless80/SiteRedirect)
+* [IS-ports](https://github.com/aless80/IS-ports)
+* [iGrow](https://github.com/aless80/iGrow)
 
-# Header 1
-## Header 2
-### Header 3
+### Machine Learning
+* [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods)
+* [MITprojects](https://github.com/aless80/MITprojects)
+* [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression)
+* [Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries)
+* [Presidentspeech](https://github.com/aless80/Presidentspeech)
+* [ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle)
+* [KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity)
 
-- Bulleted
-- List
+### InterSystems
+These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aless80/aless80.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)
+* [DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)
+* [Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)
+* [DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)
+* [DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)
+* [DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)
