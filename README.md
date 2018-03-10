@@ -3,6 +3,7 @@
 Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
 
 Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
+<br>
 
 <style>
 .markdown-body table {
@@ -27,6 +28,7 @@ td:nth-child(3) {
 * [Machine Learning](#machine-learning)  
 * [InterSystems](#intersystems)
 
+<br>
 -------
 
 ### Machine Learning
@@ -43,6 +45,7 @@ Machine learning projects. These are jupyter notebooks in Python.
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
 
+<br>
 -------
 
 ### Python
@@ -56,6 +59,7 @@ Projects based on Python.
 | [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:95px"></progress>  |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:95px"></progress>  |
 
+<br>
 -------
 
 ### Web technologies
@@ -68,6 +72,7 @@ Projects using HTML/CSS/javascript/etc
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  |
 
+<br>
 -------
 
 ### InterSystems
