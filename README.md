@@ -43,7 +43,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 <script>
 	function toggle_visibility(id) {
-	    $(id).stop().animate({height:'toggle'}, 500);
+	    $(id).stop().animate({background-color: 'yellow'}, 500);
 	}
 
 	$('.clicker').on('click', function() {
@@ -51,7 +51,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 	});
 </script>
 
-<div id="elementTop" class="clicker" name="elementBottom">
+<div class="clicker" id="elementTop" class="clicker" name="elementBottom">
     <a>click to js</a>
 </div>
 
