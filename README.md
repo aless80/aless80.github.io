@@ -41,6 +41,21 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 
+<script>
+	function toggle_visibility(id) {
+	    $(id).stop().animate({background-color: 'yellow'}, 1000);
+	}
+
+	$('.clicker').on('click', function() {
+	   toggle_visibility('#' + $(this).attr('name'));
+	});
+</script>
+
+<div id="elementTop" class="clicker" name="elementBottom">
+    <a>click to js</a>
+</div>
+
+<strong id="elementBottom">sckit-learn, pandas, numpy, matplotlib</strong>
 
 <style>
 	.glowing {
