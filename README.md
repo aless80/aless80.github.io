@@ -14,6 +14,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 .markdown-body table .thead:nth-child(1) {
     min-width:150px;
 }
+.markdown-body table .thead:nth-child(1) {
+    min-width:250px;
+}
 </style>
 
 ### Table of Contents
