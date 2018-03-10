@@ -16,7 +16,7 @@ td:nth-child(1) {
 td:nth-child(2) {  
   width:250px;
 }
-td:nth-child(2) {  
+td:nth-child(3) {  
   width:100px;
 }
 </style>
