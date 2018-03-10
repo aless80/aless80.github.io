@@ -16,6 +16,9 @@ td:nth-child(1) {
 td:nth-child(2) {  
   width:250px;
 }
+td:nth-child(2) {  
+  width:100px;
+}
 </style>
 
 ### Table of Contents
@@ -31,7 +34,7 @@ Projects based on Python.
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:90px"></progress>  |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" ></progress>  |
 | [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:90px"></progress>  |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:90px"></progress>  |
 
