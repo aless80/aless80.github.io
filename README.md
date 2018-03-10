@@ -1,23 +1,3 @@
-<script>
-	var glow = $('.glowing');
-	setInterval(function(){
-	    glow.hasClass('glow') ? glow.removeClass('glow') : glow.addClass('glow');
-	}, 1000);
-</script>
-<style>
-	.glowing {
-	    -webkit-transition: text-shadow 1s linear;
-	    -moz-transition: text-shadow 1s linear;
-	    -ms-transition: text-shadow 1s linear;
-	    -o-transition: text-shadow 1s linear;
-	    transition: text-shadow 1s linear;
-	}
-	.glowing:hover,
-	.glowing.glow {
-	    text-shadow: 0 0 10px red;
-	}
-</style>
-
 <style>
 .markdown-body table {
     display: block;
@@ -62,12 +42,33 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 
+<script>
+	var glow = $('.glowing');
+	setInterval(function(){
+	    glow.hasClass('glow') ? glow.removeClass('glow') : glow.addClass('glow');
+	}, 1000);
+</script>
+<style>
+	.glowing {
+	    -webkit-transition: text-shadow 1s linear;
+	    -moz-transition: text-shadow 1s linear;
+	    -ms-transition: text-shadow 1s linear;
+	    -o-transition: text-shadow 1s linear;
+	    transition: text-shadow 1s linear;
+	}
+	.glowing:hover,
+	.glowing.glow {
+	    text-shadow: 0 0 10px red;
+	}
+</style>
+
+<div class="glowing" style="overflow-x: hidden; overflow-y: hidden; opacity: 1; ">[ Confirm Selection ]</div> 
 
 ### Machine Learning
 
 Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are:  
 <a id="libs"></a> **sckit-learn, pandas, numpy, matplotlib**, and others. 
-<div class="glowing" style="overflow-x: hidden; overflow-y: hidden; opacity: 1; ">[ Confirm Selection ]</div> 
+
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords |
 |: --------- |:--------------------------------------:|:-----:|
