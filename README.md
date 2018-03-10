@@ -48,7 +48,7 @@ These are projects using InterSystems' technology, in particular Caché Objectsc
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| |
 |[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| <img src="icons/checkmark.svg" width="25px" title="Complete">|
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <img src="icons/checkmark.svg" width="25px" title="Complete">|
-|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| InterSystems Cach'e|<img src="icons/checkmark.svg" width="25px" title="Complete"> |
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| InterSystems Caché|<img src="icons/checkmark.svg" width="25px" title="Complete"> |
 
 ISSecuritySetup
 
