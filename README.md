@@ -2,7 +2,7 @@
 
 Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
 
-Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get a glimpse of what technologies I am using. 
+Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
 
 ### Python, Django
 
