@@ -37,9 +37,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 ### Machine Learning
 
 Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are:  
-**sckit-learn, pandas, numpy, matplotlib**, and others. 
+<a id="libs"></a> **sckit-learn, pandas, numpy, matplotlib**, and others. 
 
-| Repository | Libraries<br>(other than listed above) | Progress | Keywords |
+| Repository | Libraries<br>(other than <a href="libs">*</a>) | Progress | Keywords |
 |: --------- |:--------------------------------------:|:-----:|
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="70" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | | <progress value="100" max="100" style="width:95px"></progress> | Practicing Ensemble methods on different kinds of regressors|
