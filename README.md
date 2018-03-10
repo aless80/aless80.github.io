@@ -22,6 +22,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 }
 td:nth-child(1) {  
   min-width:200px;
+  width:300px;
 }
 </style>
 
