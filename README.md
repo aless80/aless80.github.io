@@ -11,10 +11,10 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
     overflow: auto;
 }
 td:nth-child(1) {  
-  width:100px;
+  width:250px;
 }
 td:nth-child(2) {  
-  width:200px;
+  width:250px;
 }
 </style>
 
