@@ -42,13 +42,13 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 <script>
-function toggle_visibility(id) {
-    $(id).stop().animate({height:'toggle'}, 500);
-}
+	function toggle_visibility(id) {
+	    $(id).stop().animate({height:'toggle'}, 500);
+	}
 
-$('.clicker').on('click', function() {
-   toggle_visibility('#' + $(this).attr('name'));
-});
+	$('.clicker').on('click', function() {
+	   toggle_visibility('#' + $(this).attr('name'));
+	});
 </script>
 
 <div id="elementTop" class="clicker" name="elementBottom">
