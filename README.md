@@ -7,7 +7,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 <style>
 .markdown-body table {
     display: block;
-    width: 10%;
+    width: 100%;
     overflow: auto;
 }
 </style>
