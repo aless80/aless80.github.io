@@ -26,9 +26,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 <br>
 
 ### Table of Contents
+* [Machine Learning](#machine-learning)  
 * [Python](#Python)
 * [Web technologies](#web-technologies)
-* [Machine Learning](#machine-learning)  
 * [InterSystems](#intersystems)
 
 <br>
