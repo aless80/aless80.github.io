@@ -44,7 +44,7 @@ Projects involving InterSystems' technologies, in particular Caché Objectscript
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
+|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="50" max="100" style="width:90px"></progress>|
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:90px"></progress>|
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
