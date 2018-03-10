@@ -18,6 +18,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 ### Web technologies
+
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | @icon-fa-check |
