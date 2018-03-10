@@ -27,6 +27,8 @@ td:nth-child(2) {
 
 ### Python
 
+Projects based on Python. 
+
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:90px"></progress>  |
@@ -35,6 +37,8 @@ td:nth-child(2) {
 
 
 ### Web technologies
+
+Projects using HTML/CSS/javascript/etc
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
