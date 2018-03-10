@@ -51,12 +51,15 @@ These are projects using InterSystems' technology, in particular Caché Objectsc
 
 ISSecuritySetup
 
+<!--
 <img src="icons/checkmark.svg" width="25px">
 
 ![Complete](icons/checkmark.svg =20)
 ![Complete](icons/checkmark.svg =25)
 ![Complete](icons/checkmark.svg =30)
-<!-- http://jmcglone.com/guides/github-pages/ -->
+<!-- http://jmcglone.com/guides/github-pages/ 
 
+This works:
 <img src="icons/workinprogress.svg" width="25px" title="Work in progress">
 <img src="icons/checkmark.svg" width="25px" title="Complete">  
+-->
