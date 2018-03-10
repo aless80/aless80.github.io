@@ -1,10 +1,3 @@
-## Welcome to my site on GitHub Pages
-
-Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
-
-Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
-<br>
-
 <style>
 .markdown-body table {
     display: block;
@@ -21,6 +14,16 @@ td:nth-child(3) {
   width:100px;
 }
 </style>
+
+
+## Welcome to my site on GitHub Pages
+
+Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
+
+Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
+<br>
+----
+<br>
 
 ### Table of Contents
 * [Python](#Python)
