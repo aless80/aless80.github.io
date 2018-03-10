@@ -50,5 +50,5 @@ These are projects using InterSystems' technology, in particular Caché Objectsc
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| |
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| InterSystems Cach'e|ISSecuritySetup |
 
-
+![Complete](icons/checkmark.svg"Title")
 <!-- http://jmcglone.com/guides/github-pages/ -->
