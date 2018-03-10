@@ -41,37 +41,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 
-<script>
-	var glow = $('.confirm_selection');
-setInterval(function(){
-    glow.toggleClass('glow');
-}, 1000);
-</script>
-
-
-<strong id="elementBottom">sckit-learn, pandas, numpy, matplotlib</strong>
-
-<style>
-	.confirm_selection {
-	    -webkit-transition: text-shadow 0.2s linear;
-	    -moz-transition: text-shadow 0.2s linear;
-	    -ms-transition: text-shadow 0.2s linear;
-	    -o-transition: text-shadow 0.2s linear;
-	    transition: text-shadow 0.2s linear;
-	}
-	.confirm_selection:hover {
-	    text-shadow: 0 0 10px red; /* replace with whatever color you want */
-	}
-</style>
-
-<span class="glowing">
-[ Confirm Selection ]
-</span>
-
 ### Machine Learning
 
-Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are:  
-<a id="libs"></a> **sckit-learn, pandas, numpy, matplotlib**, and others. 
+Machine learning projects in Jupyter Notebooks using Python. 
 
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords |
@@ -84,7 +56,12 @@ Machine learning projects. These are Jupyter Notebooks in Python. Standard libra
 | [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | scipy, patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using different libraries, cross-validation|
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on logistic regression |
 
+
+Standard libraries that I use in every notebook are:  
+<a id="libs"></a> **sckit-learn, pandas, numpy, matplotlib**, and others. 
+
 <br>
+
 -------
 <br>
 
