@@ -38,7 +38,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 Machine learning projects. These are jupyter notebooks in Python. 
 
-| Repo           | Technologies     | Status | Description |
+| Repository | Technologies | Status | Description |
 |: ------------- |:-------------|:-----:|
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:95px"></progress>  |
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> |
@@ -56,11 +56,11 @@ Machine learning projects. These are jupyter notebooks in Python.
 
 Projects based on Python. 
 
-| Repo           | Technologies     | Status | Description |
+| Repository | Technologies | Status | Description |
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  |
-| [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:95px"></progress>  |
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:95px"></progress>  |
+| [pypanda](https://github.com/aless80/pypanda)| Python (pandas) | <progress value="85" max="100" style="width:95px"></progress>  |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |
 
 <br>
 -------
@@ -69,7 +69,7 @@ Projects based on Python.
 
 Projects using HTML/CSS/javascript/etc
 
-| Repo           | Technologies     | Status | Description |
+| Repository | Technologies | Status | Description |
 |: ------------- |:-------------|:-----:|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
@@ -81,7 +81,7 @@ Projects using HTML/CSS/javascript/etc
 ### InterSystems
 Projects mainly involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product) and Zen 
 
-| Repo           | Technologies     | Status | Description |
+| Repository | Technologies | Status | Description |
 |: ------------- |:-------------|:-----:|
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="90" max="100" style="width:95px"></progress>| |
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| |
