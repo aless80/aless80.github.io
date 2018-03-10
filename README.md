@@ -37,9 +37,9 @@ Projects based on Python.
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" ></progress>  |
-| [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:90px"></progress>  |
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:90px"></progress>  |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  |
+| [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:95px"></progress>  |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:95px"></progress>  |
 
 
 ### Web technologies
@@ -59,25 +59,25 @@ Machine learning projects. These are jupyter notebooks in Python.
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:90px"></progress>  |
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress> |
-| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
-|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
-|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:95px"></progress>  |
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> |
+| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
 
 ### InterSystems
 Projects involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product)
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="50" max="100" style="width:90px"></progress>|
-|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
-|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:90px"></progress>|
-|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
-|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
-|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
+|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="50" max="100" style="width:95px"></progress>|
+|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>|
+|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>|
+|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>|
+|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>|
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>|
 
 ISSecuritySetup
 
