@@ -49,6 +49,8 @@ Projects using HTML/CSS/javascript/etc
 
 ### Machine Learning
 
+Machine learning projects. These are jupyter notebooks in Python. 
+
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:90px"></progress>  |
