@@ -49,7 +49,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 	@keyframes glow {
 	    to {
-	    	font-weight: normal;
+	    	/*font-weight: normal;*/
 	    	background-color: yellow;
 	    }
 	}
