@@ -31,13 +31,13 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
-| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
-|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
-|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete">|
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
 
 ### InterSystems
 These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
