@@ -50,19 +50,25 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 </script>
 <style>
 	.glowing {
-	    -webkit-transition: text-shadow 1s linear;
-	    -moz-transition: text-shadow 1s linear;
-	    -ms-transition: text-shadow 1s linear;
-	    -o-transition: text-shadow 1s linear;
-	    transition: text-shadow 1s linear;
+	    animation: glow .5s infinite alternate;
 	}
-	.glowing:hover,
-	.glowing.glow {
-	    text-shadow: 0 0 10px red;
+
+	@keyframes glow {
+	    to {
+	        text-shadow: 0 0 10px red;
+	    }
+	}
+
+	.glowing {
+	    font-family: sans-serif;
+	    font-size: 36px;
+	    font-weight: bold;
 	}
 </style>
 
-<div class="glowing" style="overflow-x: hidden; overflow-y: hidden; opacity: 1; ">[ Confirm Selection ]</div> 
+<span class="glowing">
+[ Confirm Selection ]
+</span>
 
 ### Machine Learning
 
