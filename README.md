@@ -30,7 +30,7 @@ td:nth-child(1) {
 * [Python](#Python)
 * [Web technologies](#web-technologies)
 * [Machine Learning](#machine-learning)  
-* [InterSystems] (#interSystems)
+* [InterSystems] (#intersystems)
 
 
 ### Python
