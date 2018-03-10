@@ -10,9 +10,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | Work in progress |
-| [pypanda](https://github.com/aless80/pypanda)| centered      | @icon-fa-circle |
-| [tantrix](https://github.com/aless80/tantrix) | are neat      | @icon-fa-check |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | @icon-fa-building |
+| [pypanda](https://github.com/aless80/pypanda)| Python      | @icon-fa-circle |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | @icon-fa-check |
 
 * [Djangoresume](https://github.com/aless80/Djangoresume)
 * [pypanda](https://github.com/aless80/pypanda)
@@ -20,6 +20,13 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 ### Web technologies
+| Repo           | Technologies     | Status |
+|: ------------- |:-------------|:-----:|
+| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | @icon-fa-check |
+| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | @icon-fa-check |
+| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | @icon-fa-check |
+
+
 * [SiteRedirect](https://github.com/aless80/SiteRedirect)
 * [IS-ports](https://github.com/aless80/IS-ports)
 * [iGrow](https://github.com/aless80/iGrow)
