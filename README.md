@@ -1,3 +1,10 @@
+<script>
+	var glow = $('.confirm_selection');
+	setInterval(function(){
+	    glow.hasClass('glow') ? glow.removeClass('glow') : glow.addClass('glow');
+	}, 1000);
+</script>
+
 <style>
 .markdown-body table {
     display: block;
@@ -14,7 +21,6 @@ td:nth-child(3) {
   width:100px;
 }
 </style>
-
 
 ## Welcome to my site on GitHub Pages
 
