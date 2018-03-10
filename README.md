@@ -44,7 +44,8 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 <style>
 	.glowing {
-	    animation: glow .5s infinite alternate;
+	    animation: glow .5s;
+	    animation-iteration-count: 3;
 	}
 
 	@keyframes glow {
