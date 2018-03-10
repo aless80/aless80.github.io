@@ -12,8 +12,8 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | @icon-fa-building |
-| [pypanda](https://github.com/aless80/pypanda)| Python      | @icon-fa-circle |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <img src="icons/workinprogress.svg" width="25px"> |
+| [pypanda](https://github.com/aless80/pypanda)| Python      | <img src="icons/checkmark.svg" width="25px"> |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | @icon-fa-check |
 
 
@@ -52,7 +52,7 @@ These are projects using InterSystems' technology, in particular Caché Objectsc
 
 hey
 
-<img src="icons/checkmark.svg" width="20px">
+<img src="icons/checkmark.svg" width="25px">
 
 ![Complete](icons/checkmark.svg =20)
 ![Complete](icons/checkmark.svg =25)
