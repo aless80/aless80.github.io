@@ -42,8 +42,8 @@ Machine learning projects. These are Jupyter Notebooks in Python. Standard libra
 |: ------------- |:-------------|:-----:|
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="70" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | | <progress value="100" max="100" style="width:95px"></progress> | Practicing Ensemble methods on different kinds of regressors|
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | natural language processing, feature extraction, LDA, NMF, regular expressions |
-| [MITprojects](https://github.com/aless80/MITprojects) | nltk, feature extraction | <progress value="100" max="100" style="width:95px"></progress>  | Web scraping, topic analysis,  |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, beautifulsoup, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Natural Language Processing, feature extraction, LDA, NMF, regular expressions |
+| [MITprojects](https://github.com/aless80/MITprojects) | nltk, gensim, beautifulsoup, scrape, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | topic analysis, Web scraping, feature extraction |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on Kalman filters|
 | [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | scipy, patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using different libraries, cross-validation|
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on logistic regression |
