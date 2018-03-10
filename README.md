@@ -40,12 +40,12 @@ Machine learning projects. These are Jupyter Notebooks in Python. Standard libra
 
 | Repository | Libraries | Status | Keywords |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python | <progress value="70" max="100" style="width:95px"></progress>  | Time-series, SARIMAX models|
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> | | Practicing Ensemble methods on different kinds of regressors|
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python | <progress value="100" max="100" style="width:95px"></progress>  | |
-| [MITprojects](https://github.com/aless80/MITprojects) | nltk | <progress value="100" max="100" style="width:95px"></progress>  | Web scraping, topic analysis, natural language processing, LDA, NMF |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | | <progress value="70" max="100" style="width:95px"></progress>  | Time-series, SARIMAX models|
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | | <progress value="100" max="100" style="width:95px"></progress> | | Practicing Ensemble methods on different kinds of regressors|
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, feature extraction | <progress value="100" max="100" style="width:95px"></progress>  | natural language processing, LDA, NMF |
+| [MITprojects](https://github.com/aless80/MITprojects) | nltk, feature extraction | <progress value="100" max="100" style="width:95px"></progress>  | Web scraping, topic analysis,  |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | Study on Kalman filters|
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | Regression using scikit-learn, patsy, statsmodel|
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using scikit-learn|
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | |
 
 <br>
