@@ -106,7 +106,7 @@ Projects mainly involving InterSystems' technologies, in particular Caché Objec
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="90" max="100" style="width:95px"></progress>| Reporting tool to log an instance|
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| better time charts for DeepSee |
 |[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee, Zen, javascript | <progress value="50" max="100" style="width:95px"></progress>| A collection of DeepSee KPIs |
-|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| utility to automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
+|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
 |[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee, web scraping| <progress value="100" max="100" style="width:95px"></progress>| sample cube and dashboards from web scraped data|
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| sample cube and dashboards created from web scraped data|
 
