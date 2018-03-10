@@ -39,13 +39,12 @@ td:nth-child(2) {
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <progress value="60" max="100" style="width:90px"></progress>  |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:90px"></progress>  |
 | [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:90px"></progress>  |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:90px"></progress>  |
 
 
 ### Web technologies
-
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
