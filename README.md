@@ -79,14 +79,14 @@ Projects using HTML/CSS/javascript/etc
 -------
 <br>
 ### InterSystems
-Projects involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product)
+Projects mainly involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product) and Zen 
 
 | Repo           | Technologies     | Status | Description |
 |: ------------- |:-------------|:-----:|
-|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="50" max="100" style="width:95px"></progress>| |
-|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| |
+|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="90" max="100" style="width:95px"></progress>| |
+|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| |
+|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee, Zen | <progress value="50" max="100" style="width:95px"></progress>| |
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| |
-|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| |
 |[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| |
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| |
 
