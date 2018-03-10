@@ -53,4 +53,4 @@ These are projects using InterSystems' technology, in particular Caché Objectsc
 ![Complete](icons/checkmark.svg)
 ![Completezs](/icons/checkmark.svg)
 <!-- http://jmcglone.com/guides/github-pages/ -->
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](icons/checkmark.svg?raw=true "Title")
