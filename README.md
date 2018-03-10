@@ -5,14 +5,21 @@ Please refer to my [website](https://aless80.pythonanywhere.com/). My site is st
 Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
 
 <style>
-table {
-	width: 10px;
+.markdown-body table {
+    display: block;
+    width: 10%;
+    overflow: auto;
 }
 </style>
-hey
 
-### Python, Django
+### Table of Contents
+* [Python](#Python)
+* [Web technologies](#web-technologies)
+* [Machine Learning](#machine-learning)  
+* [InterSystems] (#interSystems)
 
+
+### Python
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
