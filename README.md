@@ -12,8 +12,8 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <img src="icons/workinprogress.svg" width="25px"> |
-| [pypanda](https://github.com/aless80/pypanda)| Python      | <img src="icons/checkmark.svg" width="25px"> |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <img src="icons/workinprogress.svg" width="25px" title="Work in progress"> |
+| [pypanda](https://github.com/aless80/pypanda)| Python      | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | @icon-fa-check |
 
 
