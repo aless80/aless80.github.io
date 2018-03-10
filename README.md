@@ -14,10 +14,6 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 | [pypanda](https://github.com/aless80/pypanda)| Python      | @icon-fa-circle |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | @icon-fa-check |
 
-* [Djangoresume](https://github.com/aless80/Djangoresume)
-* [pypanda](https://github.com/aless80/pypanda)
-* [tantrix](https://github.com/aless80/tantrix)
-
 
 ### Web technologies
 | Repo           | Technologies     | Status |
@@ -27,25 +23,24 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | @icon-fa-check |
 
 
-* [SiteRedirect](https://github.com/aless80/SiteRedirect)
-* [IS-ports](https://github.com/aless80/IS-ports)
-* [iGrow](https://github.com/aless80/iGrow)
-
 ### Machine Learning
-* [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods)
-* [MITprojects](https://github.com/aless80/MITprojects)
-* [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression)
-* [Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries)
-* [Presidentspeech](https://github.com/aless80/Presidentspeech)
-* [ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle)
-* [KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity)
+
+| Repo           | Technologies     | Status |
+|: ------------- |:-------------|:-----:|
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | |
+| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | |
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | |
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | |
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | |
 
 ### InterSystems
 These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
 
-* [DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)
-* [DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)
-* [Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)
-* [DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)
-* [DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)
-* [DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)
+|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| | |
+|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| | |
+|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| | |
+|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| | |
+|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| | |
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| | |
