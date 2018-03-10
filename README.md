@@ -43,7 +43,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 <script>
 	function toggle_visibility(id) {
-	    $(id).stop().animate({background-color: 'yellow'}, 1000);
+	    $(id).stop().animate({height:'toggle'}, 500);
 	}
 
 	$('.clicker').on('click', function() {
