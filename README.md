@@ -36,17 +36,17 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 <br>
 ### Machine Learning
 
-Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are pandas, numpy, matplotlib. 
+Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are sckit-learn, pandas, numpy, matplotlib. 
 
-| Repository | Technologies | Status | Description |
+| Repository | Libraries | Status | Keywords |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python | <progress value="70" max="100" style="width:95px"></progress>  | Time-series analysis using SARIMAX models|
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> | Practicing Ensemble methods on different kinds of regressors|
-| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | Web scraping, topic analysis |
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | |
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python | <progress value="70" max="100" style="width:95px"></progress>  | Time-series, SARIMAX models|
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> | | Practicing Ensemble methods on different kinds of regressors|
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python | <progress value="100" max="100" style="width:95px"></progress>  | |
+| [MITprojects](https://github.com/aless80/MITprojects) | nltk | <progress value="100" max="100" style="width:95px"></progress>  | Web scraping, topic analysis, natural language processing, LDA, NMF |
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | Study on Kalman filters|
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | Regression using scikit-learn, patsy, statsmodel|
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | |
-|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | |
 
 <br>
 -------
