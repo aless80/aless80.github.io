@@ -12,9 +12,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <progress value="60" max="100" style="width:40px"></progress>  |
-| [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="90" max="100" style="width:40px"></progress>  |
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:40px"></progress>  |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <progress value="60" max="100" style="width:90px"></progress>  |
+| [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="90" max="100" style="width:90px"></progress>  |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:90px"></progress>  |
 
 
 ### Web technologies
@@ -22,22 +22,22 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:70px"></progress>  |
-| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:50px"></progress>  |
-| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:60px"></progress>  |
+| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
+| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
+| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  |
 
 
 ### Machine Learning
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
-| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
-|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
-|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:40px"></progress>  |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress> |
+| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
 
 ### InterSystems
 These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
