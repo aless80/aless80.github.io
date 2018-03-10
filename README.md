@@ -42,38 +42,25 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 <script>
-	function toggle_visibility(id) {
-	    $(id).stop().animate({height:'toggle'}, 500);
-	}
-
-	$('.clicker').on('click', function() {
-	   toggle_visibility('#' + $(this).attr('name'));
-	});
+	var glow = $('.confirm_selection');
+setInterval(function(){
+    glow.toggleClass('glow');
+}, 1000);
 </script>
 
-<div id="elementTop" class="clicker" name="elementBottom">
-    <img id="thumb" src="images/davey1.png" />
-    <a>davey blair</a>
-</div>
 
 <strong id="elementBottom">sckit-learn, pandas, numpy, matplotlib</strong>
 
 <style>
-	.glowing {
-	    animation: glow 1s 3;
+	.confirm_selection {
+	    -webkit-transition: text-shadow 0.2s linear;
+	    -moz-transition: text-shadow 0.2s linear;
+	    -ms-transition: text-shadow 0.2s linear;
+	    -o-transition: text-shadow 0.2s linear;
+	    transition: text-shadow 0.2s linear;
 	}
-
-	@keyframes glow {
-	    to {
-	    	/*font-weight: normal;*/
-	    	background-color: yellow;
-	    }
-	}
-
-	.glowing {
-	    font-family: sans-serif;
-	    font-size: 36px;
-	    font-weight: bold;
+	.confirm_selection:hover {
+	    text-shadow: 0 0 10px red; /* replace with whatever color you want */
 	}
 </style>
 
