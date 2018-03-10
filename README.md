@@ -36,7 +36,8 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 <br>
 ### Machine Learning
 
-Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are **sckit-learn, pandas, numpy, matplotlib**, and others. 
+Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are:  
+**sckit-learn, pandas, numpy, matplotlib**, and others. 
 
 | Repository | Libraries<br>(other than listed above) | Progress | Keywords |
 |: --------- |:--------------------------------------:|:-----:|
