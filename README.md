@@ -38,7 +38,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are sckit-learn, pandas, numpy, matplotlib. 
 
-| Repository | Libraries | Status | Keywords |
+| Repository | Libraries | Progress | Keywords |
 |: ------------- |:-------------|:-----:|
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="70" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | | <progress value="100" max="100" style="width:95px"></progress> | | Practicing Ensemble methods on different kinds of regressors|
@@ -56,7 +56,7 @@ Machine learning projects. These are Jupyter Notebooks in Python. Standard libra
 
 Projects based on Python. 
 
-| Repository | Technologies | Status | Description |
+| Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  |
 | [pypanda](https://github.com/aless80/pypanda)| Python (pandas) | <progress value="85" max="100" style="width:95px"></progress>  |
@@ -69,7 +69,7 @@ Projects based on Python.
 
 Projects using HTML/CSS/javascript/etc
 
-| Repository | Technologies | Status | Description |
+| Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
@@ -81,7 +81,7 @@ Projects using HTML/CSS/javascript/etc
 ### InterSystems
 Projects mainly involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product) and Zen 
 
-| Repository | Technologies | Status | Description |
+| Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="90" max="100" style="width:95px"></progress>| |
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| |
