@@ -55,7 +55,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
     <a>click to js</a>
 </div>
 
-<strong id="elementBottom">sckit-learn, pandas, numpy, matplotlib</strong>
+<strong class="clicker" id="elementBottom">sckit-learn, pandas, numpy, matplotlib</strong>
 
 <style>
 	.glowing {
