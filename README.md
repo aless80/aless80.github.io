@@ -25,7 +25,7 @@ td:nth-child(2) {
 * [Python](#Python)
 * [Web technologies](#web-technologies)
 * [Machine Learning](#machine-learning)  
-* [InterSystems] (#intersystems)
+* [InterSystems](#intersystems)
 
 
 ### Python
