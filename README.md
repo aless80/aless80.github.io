@@ -30,7 +30,7 @@ td:nth-child(3) {
 
 <br>
 -------
-
+<br>
 ### Machine Learning
 
 Machine learning projects. These are jupyter notebooks in Python. 
@@ -47,7 +47,7 @@ Machine learning projects. These are jupyter notebooks in Python.
 
 <br>
 -------
-
+<br>
 ### Python
 
 
@@ -61,7 +61,7 @@ Projects based on Python.
 
 <br>
 -------
-
+<br>
 ### Web technologies
 
 Projects using HTML/CSS/javascript/etc
