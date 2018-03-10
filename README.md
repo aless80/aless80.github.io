@@ -31,10 +31,10 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | |
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | |
 | [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | |
 | [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | |
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | |
 |[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | |
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | |
@@ -42,9 +42,10 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 ### InterSystems
 These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
 
-|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| | |
-|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| | |
+|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| |
+|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| |
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| | |
-|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| | |
-|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| | |
-|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| | |
+|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| |
+|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| |
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| |
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| InterSystems Cach'e|ISSecuritySetup |
