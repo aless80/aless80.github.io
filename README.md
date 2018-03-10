@@ -28,6 +28,21 @@ td:nth-child(2) {
 * [InterSystems](#intersystems)
 
 
+### Machine Learning
+
+Machine learning projects. These are jupyter notebooks in Python. 
+
+| Repo           | Technologies     | Status |
+|: ------------- |:-------------|:-----:|
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:95px"></progress>  |
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> |
+| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
+
+
 ### Python
 
 
@@ -50,20 +65,6 @@ Projects using HTML/CSS/javascript/etc
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  |
 
-
-### Machine Learning
-
-Machine learning projects. These are jupyter notebooks in Python. 
-
-| Repo           | Technologies     | Status |
-|: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:95px"></progress>  |
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> |
-| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
-|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
-|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  |
 
 ### InterSystems
 Projects involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product)
