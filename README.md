@@ -40,8 +40,10 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:90px"></progress>  |
 
 ### InterSystems
-These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
+Projects involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product)
 
+| Repo           | Technologies     | Status |
+|: ------------- |:-------------|:-----:|
 |[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <progress value="100" max="100" style="width:90px"></progress>|
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| | <progress value="100" max="100" style="width:90px"></progress>|
