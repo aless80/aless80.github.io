@@ -68,7 +68,8 @@ Projects based on Python.
 <br>
 ### Web technologies
 
-Projects using HTML/CSS/javascript/etc
+Projects using HTML/CSS/javascript/etc. Other projects using web technologies are listed in the [Python](#Python) and [InterSystems](#intersystems) sections
+
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
