@@ -33,7 +33,7 @@ td:nth-child(3) {
 
 Machine learning projects. These are jupyter notebooks in Python. 
 
-| Repo           | Technologies     | Status |
+| Repo           | Technologies     | Status | Description |
 |: ------------- |:-------------|:-----:|
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <progress value="70" max="100" style="width:95px"></progress>  |
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress> |
@@ -50,7 +50,7 @@ Machine learning projects. These are jupyter notebooks in Python.
 
 Projects based on Python. 
 
-| Repo           | Technologies     | Status |
+| Repo           | Technologies     | Status | Description |
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  |
 | [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="85" max="100" style="width:95px"></progress>  |
@@ -62,7 +62,7 @@ Projects based on Python.
 
 Projects using HTML/CSS/javascript/etc
 
-| Repo           | Technologies     | Status |
+| Repo           | Technologies     | Status | Description |
 |: ------------- |:-------------|:-----:|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
@@ -73,7 +73,7 @@ Projects using HTML/CSS/javascript/etc
 ### InterSystems
 Projects involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product)
 
-| Repo           | Technologies     | Status |
+| Repo           | Technologies     | Status | Description |
 |: ------------- |:-------------|:-----:|
 |[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <progress value="50" max="100" style="width:95px"></progress>| |
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| |
