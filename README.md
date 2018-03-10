@@ -12,8 +12,8 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <img src="icons/workinprogress.svg" width="25px" title="Work in progress"> |
-| [pypanda](https://github.com/aless80/pypanda)| Python      | <img src="icons/checkmark.svg" width="25px" title="Complete">  <progress value="22" max="100"></progress>  |
+| [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned |  |
+| [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="22" max="100"></progress>  |
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
 
 
@@ -58,3 +58,6 @@ ISSecuritySetup
 ![Complete](icons/checkmark.svg =25)
 ![Complete](icons/checkmark.svg =30)
 <!-- http://jmcglone.com/guides/github-pages/ -->
+
+<img src="icons/workinprogress.svg" width="25px" title="Work in progress">
+<img src="icons/checkmark.svg" width="25px" title="Complete">  
