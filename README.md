@@ -4,8 +4,12 @@ Please refer to my [website](https://aless80.pythonanywhere.com/). My site is st
 
 Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
 
+<style>
+table {
+	width: 10px;
+}
+</style>
 
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 
 ### Python, Django
 
@@ -55,6 +59,7 @@ ISSecuritySetup
 
 <!--
 <img src="icons/checkmark.svg" width="25px">
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 
 ![Complete](icons/checkmark.svg =20)
 ![Complete](icons/checkmark.svg =25)
