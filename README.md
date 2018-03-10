@@ -20,6 +20,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 .thead:nth-child(2) {
     min-width:200px;
 }
+td:nth-child(1) {  
+  min-width:200px;
+}
 </style>
 
 ### Table of Contents
