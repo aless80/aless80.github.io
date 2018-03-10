@@ -40,13 +40,13 @@ Machine learning projects. These are Jupyter Notebooks in Python. Standard libra
 
 | Repository | Libraries | Status | Keywords |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | | <progress value="70" max="100" style="width:95px"></progress>  | Time-series, SARIMAX models|
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="70" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 | [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | | <progress value="100" max="100" style="width:95px"></progress> | | Practicing Ensemble methods on different kinds of regressors|
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, feature extraction | <progress value="100" max="100" style="width:95px"></progress>  | natural language processing, LDA, NMF |
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | natural language processing, feature extraction, LDA, NMF, regular expressions |
 | [MITprojects](https://github.com/aless80/MITprojects) | nltk, feature extraction | <progress value="100" max="100" style="width:95px"></progress>  | Web scraping, topic analysis,  |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | Study on Kalman filters|
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using scikit-learn|
-|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <progress value="100" max="100" style="width:95px"></progress>  | |
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | scipy, patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using different libraries, cross-validation|
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on logistic regression |
 
 <br>
 -------
