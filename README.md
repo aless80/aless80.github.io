@@ -21,8 +21,10 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
     min-width:200px;
 }
 td:nth-child(1) {  
-  min-width:200px;
-  width:300px;
+  width:100px;
+}
+td:nth-child(2) {  
+  width:200px;
 }
 </style>
 
