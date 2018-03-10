@@ -90,10 +90,10 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 
 
 | Repository | Technologies | Progress | Description |
-|: ------------- |:-------------|:-----:|
-| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
-| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  |
-| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  |
+|: ------------- |:-------------|:-----:|:-----------|
+| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to redirect URLs|
+| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to change ports|
+| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | app to track a baby's body measurements and compare it with WHO data|
 
 <br>
 -------
