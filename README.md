@@ -14,7 +14,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <img src="icons/workinprogress.svg" width="25px" title="Work in progress"> |
 | [pypanda](https://github.com/aless80/pypanda)| Python      | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | @icon-fa-check |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <img src="icons/checkmark.svg" width="25px" title="Complete" |
 
 
 ### Web technologies
@@ -22,35 +22,35 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | @icon-fa-check |
-| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | @icon-fa-check |
-| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | @icon-fa-check |
+| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <img src="icons/checkmark.svg" width="25px" title="Complete" |
+| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <img src="icons/checkmark.svg" width="25px" title="Complete" |
+| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <img src="icons/checkmark.svg" width="25px" title="Complete" |
 
 
 ### Machine Learning
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | |
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | |
-| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | |
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | |
-|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | |
-|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | |
-|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
+| [MITprojects](https://github.com/aless80/MITprojects) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[Presidentspeech](https://github.com/aless80/Presidentspeech) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) | Python, iPython Notebook | <img src="icons/checkmark.svg" width="25px" title="Complete"|
 
 ### InterSystems
 These are projects using InterSystems' technology, in particular Caché Objectscript and the Business Intelligence product DeepSee
 
-|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| |
-|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| |
-|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| | |
+|[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee| <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee| <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| | <img src="icons/checkmark.svg" width="25px" title="Complete"|
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee| |
-|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| |
-|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| |
-|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| InterSystems Cach'e|ISSecuritySetup |
+|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee| <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <img src="icons/checkmark.svg" width="25px" title="Complete"|
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| InterSystems Cach'e|<img src="icons/checkmark.svg" width="25px" title="Complete" |
 
-hey
+ISSecuritySetup
 
 <img src="icons/checkmark.svg" width="25px">
 
