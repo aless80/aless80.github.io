@@ -76,7 +76,7 @@ Projects based on Python.
 |: ------------- |:-------------|:-----:|:-----------|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  | Online resume in Django|
 | [pypanda](https://github.com/aless80/pypanda)| Python (pandas) | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |  implementation of a puzzle game|
 
 <br>
 -------
