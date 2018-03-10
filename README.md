@@ -115,16 +115,3 @@ To add: ISSecuritySetup
 
 <br>
 <br>
-<!--
-<img src="icons/checkmark.svg" width="25px">
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
-
-![Complete](icons/checkmark.svg =20)
-![Complete](icons/checkmark.svg =25)
-![Complete](icons/checkmark.svg =30)
-<!-- http://jmcglone.com/guides/github-pages/ 
-
-This works:
-<img src="icons/workinprogress.svg" width="25px" title="Work in progress">
-<img src="icons/checkmark.svg" width="25px" title="Complete">  
--->
