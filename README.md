@@ -14,7 +14,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 |: ------------- |:-------------|:-----:|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | right-aligned | <progress value="60" max="100" style="width:40px"></progress>  |
 | [pypanda](https://github.com/aless80/pypanda)| Python      | <progress value="90" max="100" style="width:40px"></progress>  |
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter), .. | <progress value="100" max="100" style="width:40px"></progress>  |
 
 
 ### Web technologies
@@ -22,9 +22,9 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 | Repo           | Technologies     | Status |
 |: ------------- |:-------------|:-----:|
-| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
-| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
-| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <img src="icons/checkmark.svg" width="25px" title="Complete"> |
+| [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:70px"></progress>  |
+| [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:50px"></progress>  |
+| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:60px"></progress>  |
 
 
 ### Machine Learning
