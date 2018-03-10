@@ -76,7 +76,7 @@ Projects based on Python.
 |: ------------- |:-------------|:-----:|:-----------|
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  | Online resume in Django|
 | [pypanda](https://github.com/aless80/pypanda)| Python (pandas) | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |  implementation of a puzzle game|
+| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
 
 <br>
 -------
@@ -93,7 +93,7 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 |: ------------- |:-------------|:-----:|:-----------|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to redirect URLs|
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to change ports|
-| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | app to track a baby's body measurements and compare it with WHO data|
+| [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | App to track a baby's body measurements and compare it with WHO data|
 
 <br>
 -------
@@ -104,11 +104,11 @@ Projects mainly involving InterSystems' technologies, in particular Caché Objec
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="90" max="100" style="width:95px"></progress>| Reporting tool to log an instance|
-|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| better time charts for DeepSee |
+|[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| Better time charts for DeepSee |
 |[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee, Zen, javascript | <progress value="50" max="100" style="width:95px"></progress>| A collection of DeepSee KPIs |
-|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
-|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee, web scraping| <progress value="100" max="100" style="width:95px"></progress>| sample cube and dashboards from web scraped data|
-|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| sample cube and dashboards created from web scraped data|
+|[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| Automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
+|[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee, web scraping| <progress value="100" max="100" style="width:95px"></progress>| Cube and dashboards from web scraped data|
+|[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| Cube and dashboards created from web scraped data|
 
 To add: ISSecuritySetup
 
