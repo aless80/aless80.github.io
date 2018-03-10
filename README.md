@@ -42,12 +42,6 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 
 
-<script>
-	var glow = $('.glowing');
-	setInterval(function(){
-	    glow.hasClass('glow') ? glow.removeClass('glow') : glow.addClass('glow');
-	}, 1000);
-</script>
 <style>
 	.glowing {
 	    animation: glow .5s infinite alternate;
