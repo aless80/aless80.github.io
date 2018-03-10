@@ -79,6 +79,7 @@ Projects based on Python.
 | [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
 
 <br>
+
 -------
 <br>
 
@@ -96,8 +97,13 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | App to track a baby's body measurements and compare it with WHO data|
 
 <br>
+
 -------
 <br>
+
+
+
+
 ### InterSystems
 Projects mainly involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product) and Zen 
 
