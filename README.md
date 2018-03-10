@@ -10,16 +10,6 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
     width: 100%;
     overflow: auto;
 }
-/*.container-lg > table:nth-child(9) > thead:nth-child(1) > tr:nth-child(1) > th:nth-child(1)*/
-.markdown-body table .thead:nth-child(1) {
-    min-width:150px;
-}
-.markdown-body table .thead:nth-child(2) {
-    min-width:250px;
-}
-.thead:nth-child(2) {
-    min-width:200px;
-}
 td:nth-child(1) {  
   width:100px;
 }
