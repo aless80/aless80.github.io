@@ -49,9 +49,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 	}
 
 	@keyframes glow {
-	    to {
-	        text-shadow: 0 0 10px red;
-	    }
+	    to {background-color: yellow;}
 	}
 
 	.glowing {
