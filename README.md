@@ -25,6 +25,11 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 ----
 <br>
 
+
+
+
+
+
 ### Table of Contents
 * [Machine Learning](#machine-learning)  
 * [Python](#Python)
@@ -34,6 +39,11 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 <br>
 -------
 <br>
+
+
+
+
+
 ### Machine Learning
 
 Machine learning projects. These are Jupyter Notebooks in Python. Standard libraries that I use in every notebook are:  
@@ -52,8 +62,11 @@ Machine learning projects. These are Jupyter Notebooks in Python. Standard libra
 <br>
 -------
 <br>
-### Python
 
+
+
+
+### Python
 
 Projects based on Python. 
 
@@ -66,6 +79,9 @@ Projects based on Python.
 <br>
 -------
 <br>
+
+
+
 ### Web technologies
 
 Projects using HTML/CSS/javascript/etc. Other projects using web technologies are listed in the [Python](#Python) and [InterSystems](#intersystems) sections
