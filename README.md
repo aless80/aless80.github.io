@@ -74,11 +74,12 @@ Standard libraries that I use in every notebook are:
 
 Projects based on Python. 
 
-| Repository | Technologies | Progress | Description |
+| Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
-| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, Python | <progress value="60" max="100" style="width:95px"></progress>  | Online resume in Django|
-| [pypanda](https://github.com/aless80/pypanda)| Python (pandas) | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
-| [tantrix](https://github.com/aless80/tantrix) | Python (Tkinter, socket), event-driven programming) | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
+| [Djangoresume](https://github.com/aless80/Djangoresume) | Mezzanine, Django, HTML, CSS | <progress value="90" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
+| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS | <progress value="90" max="100" style="width:95px"></progress>  | Online resume in Django|
+| [pypanda](https://github.com/aless80/pypanda)| pandas | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
+| [tantrix](https://github.com/aless80/tantrix) | Tkinter, socket, event-driven programming | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
 
 <br>
 
