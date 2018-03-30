@@ -1,4 +1,4 @@
-<style>
+<!--<style>
 .markdown-body table {
     display: block;
     width: 100%;
@@ -14,7 +14,7 @@ td:nth-child(3) {
   width:100px;
 }
 </style>
-
+-->
 ## Welcome to my site on GitHub Pages
 
 Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
