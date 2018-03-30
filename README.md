@@ -78,7 +78,8 @@ Projects based on Python.
 |: ------------- |:-------------|:-----:|:-----------|
 | [Mezzanine](https://github.com/aless80/Mezzanine) | Mezzanine, Django, HTML, CSS | <progress value="20" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS | <progress value="90" max="100" style="width:95px"></progress>  | Online resume in Django|
-| [pypanda](https://github.com/aless80/pypanda)| pandas | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
+| [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
+| [pypanda](https://github.com/aless80/pypanda)| pandas | <progress value="90" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
 | [tantrix](https://github.com/aless80/tantrix) | Tkinter, socket, event-driven programming | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
 
 <br>
