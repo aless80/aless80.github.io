@@ -76,7 +76,7 @@ Projects based on Python.
 
 | Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
-| [Mezzanine](https://github.com/aless80/Mezzanine) | Mezzanine, Django, HTML, CSS | <progress value="20" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
+| [Mezzanine](https://github.com/aless80/Mezzanine) | Mezzanine, Django, HTML, CSS | <progress value="25" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS | <progress value="90" max="100" style="width:95px"></progress>  | Online resume in Django|
 | [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
 | [pypanda](https://github.com/aless80/pypanda)| pandas | <progress value="90" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory 
