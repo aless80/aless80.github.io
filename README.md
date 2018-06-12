@@ -108,7 +108,7 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 
 
 ### InterSystems
-Projects mainly involving InterSystems' technologies, in particular Caché Objectscript and DeepSee (InterSystems' Business Intelligence product) and Zen 
+Projects mainly involving InterSystems' technologies, in particular Caché Objectscript, DeepSee (InterSystems' Business Intelligence product), and Zen (InterSystems' web application framework)
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
