@@ -76,10 +76,10 @@ Projects based on Python.
 
 | Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
-| [Mezzanine](https://github.com/aless80/Mezzanine) | Mezzanine, Django, HTML, CSS | <progress value="25" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
+| [Mezzanineresume](https://github.com/aless80/Mezzanineresume) | Mezzanine, Django, HTML, CSS | <progress value="75" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS | <progress value="90" max="100" style="width:95px"></progress>  | Online resume in Django|
-| [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="85" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
-| [pypanda](https://github.com/aless80/pypanda)| pandas | <progress value="90" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory 
+| [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
+| [pypanda](https://github.com/aless80/pypanda)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory 
 network reconstruction algorithm|
 | [tantrix](https://github.com/aless80/tantrix) | Tkinter, socket, event-driven programming | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
 
@@ -114,7 +114,7 @@ Projects mainly involving InterSystems' technologies, in particular Caché Objec
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
-|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="90" max="100" style="width:95px"></progress>| Reporting tool to log an instance|
+|[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="95" max="100" style="width:95px"></progress>| Reporting tool to log an instance|
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| Better time charts for DeepSee |
 |[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee, Zen, javascript | <progress value="50" max="100" style="width:95px"></progress>| A collection of DeepSee KPIs |
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| Automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
