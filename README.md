@@ -76,8 +76,8 @@ Projects based on Python.
 
 | Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
-| [Mezzanine-website](https://github.com/aless80/Mezzanine-website) | Mezzanine, Django, HTML, CSS | <progress value="75" max="100" style="width:95px"></progress>  | Site based on Django and Mezzanine
-| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS | <progress value="90" max="100" style="width:95px"></progress>  | Online resume in Django
+| [Mezzanine-website](https://github.com/aless80/Mezzanine-website) | Mezzanine, Django, HTML, CSS, PostgreSQL, SQLite | <progress value="75" max="100" style="width:95px"></progress>  | Site based on Django and the Mezzanine CMS
+| [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS, PostgreSQL, SQLite | <progress value="90" max="100" style="width:95px"></progress>  | Online resume in Django
 | [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
 | [PyPanda](https://github.com/aless80/PyPanda)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
 | [tantrix](https://github.com/aless80/tantrix) | Tkinter, socket, event-driven programming | <progress value="100" max="100" style="width:95px"></progress>  |  Implementation of a puzzle game|
