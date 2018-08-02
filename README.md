@@ -114,6 +114,8 @@ Projects mainly involving InterSystems' technologies, in particular Caché Objec
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|
 |[DeepSeeButtons](https://github.com/aless80/DeepSeeButtons)| DeepSee, HTML, CSS, javascript| <progress value="95" max="100" style="width:95px"></progress>| Reporting tool to log an instance|
+|[DeepSee_DeepSee_CubeManagerMonitor](https://github.com/aless80/DeepSee_CubeManagerMonitor
+)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| Dashboard to monitor the DeepSee Cube Manager |
 |[DeepSee_TimeCharts](https://github.com/aless80/DeepSee_TimeCharts)| DeepSee, amCharts, Zen| <progress value="100" max="100" style="width:95px"></progress>| Better time charts for DeepSee |
 |[DeepSeeKPIs](https://github.com/aless80/DeepSeeKPIs)| DeepSee, Zen, javascript | <progress value="50" max="100" style="width:95px"></progress>| A collection of DeepSee KPIs |
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| Automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
