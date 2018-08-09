@@ -122,8 +122,6 @@ Projects mainly involving InterSystems' technologies, in particular Caché Objec
 |[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee, web scraping| <progress value="100" max="100" style="width:95px"></progress>| Cube and dashboards from web scraped data|
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| Cube and dashboards created from web scraped data|
 
-To add: ISSecuritySetup
-
 
 <br>
 <br>
