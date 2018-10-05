@@ -17,7 +17,7 @@ td:nth-child(3) {
 -->
 ## Welcome to my site on GitHub Pages
 
-Please refer to my [website](https://aless80.pythonanywhere.com/). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
+Please refer to my [website](https://aless80.pythonanywhere.com/) and [GitHub account](https://github.com/aless80?tab=repositories). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
 
 Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
 
@@ -96,6 +96,8 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
+| [ngSpotify](https://github.com/aless80/ngSpotify) | Angular | <progress value="30" max="100" style="width:80px"></progress>  | Angular app for searching artists on Spotify|
+| [MEAN_notes](https://github.com/aless80/MEAN_notes) | MEAN stack (MongoDB, Express, Angular, Node.js) | <progress value="10" max="100" style="width:80px"></progress>  | TBD, MEAN stack|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to redirect URLs|
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to change ports|
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | App to track a baby's body measurements and compare it with WHO data|
