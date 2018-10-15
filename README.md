@@ -54,13 +54,13 @@ Machine learning projects in Jupyter Notebooks using Python.
 |[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, urllib2, beautifulsoup, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Natural Language Processing, feature extraction, LDA, NMF, regular expressions |
 | [MITprojects](https://github.com/aless80/MITprojects) | nltk, gensim, urllib2, beautifulsoup, scrape, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Topic analysis, Web scraping, feature extraction |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on Kalman filters|
-| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | | <progress value="100" max="100" style="width:95px"></progress> | Regressors, ensemble methods, cross-validation|
-| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | scipy, patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using different libraries, cross-validation|
+| [PredictWages_EnsembleMethods](https://github.com/aless80/PredictWages_EnsembleMethods) | statsmodel | <progress value="100" max="100" style="width:95px"></progress> | Regressors, ensemble methods, cross-validation|
+| [PredictingWages_Regression](https://github.com/aless80/PredictingWages_Regression) | scipy, patsy, statsmodel | <progress value="100" max="100" style="width:95px"></progress>  | Regression using different libraries, feature engineering, cross-validation|
 |[ChallengerSpaceShuttle](https://github.com/aless80/ChallengerSpaceShuttle) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on logistic regression |
 
 
 Standard libraries that I use in every notebook are:  
-<a id="libs"></a> **sckit-learn, pandas, numpy, matplotlib**, and other common libraries. 
+<a id="libs"></a> **sckit-learn, pandas, numpy, matplotlib, Jupyter**, and other common libraries. 
 
 <br>
 
