@@ -33,7 +33,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 
 ### Table of Contents
 * [Machine Learning](#machine-learning)  
-* [Python](#Python)
+* [Python](#python)
 * [Web technologies](#web-technologies)
 * [InterSystems](#intersystems)
 
