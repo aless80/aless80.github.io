@@ -96,7 +96,7 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
-| [gmaps-ng7](https://github.com/aless80/gmaps-ng7) | MEAN stack (MongoDB, Express, Angular, Node.js), Google Maps API, RxJS | <progress value="70" max="100" style="width:80px"></progress>  | MEAN app for searching and storing zero-waste shops on Google Maps|
+| [gmaps-ng7](https://github.com/aless80/gmaps-ng7) | MEAN stack (MongoDB, Express, Angular, Node.js), Google Maps API, RxJS | <progress value="85" max="100" style="width:80px"></progress>  | MEAN app for searching and storing zero-waste shops on Google Maps|
 | [ngSpotify](https://github.com/aless80/ngSpotify) | Angular | <progress value="30" max="100" style="width:80px"></progress>  | Angular app for searching artists on Spotify|
 | [MEAN_notes](https://github.com/aless80/MEAN_notes) | MEAN stack (MongoDB, Express, Angular, Node.js) | <progress value="10" max="100" style="width:80px"></progress>  | TBD, MEAN stack|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to redirect URLs|
