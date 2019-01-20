@@ -50,7 +50,8 @@ Machine learning projects in Jupyter Notebooks using Python.
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords/Description |
 |: --------- |:--------------------------------------:|:-----:|
-|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="70" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
+|[NER](https://github.com/aless80/NER) | spacy | <progress value="100" max="100" style="width:95px"></progress>  | Named Entity Recognition |
+|[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="90" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 |[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, urllib2, beautifulsoup, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Natural Language Processing, feature extraction, LDA, NMF, regular expressions |
 | [MITprojects](https://github.com/aless80/MITprojects) | nltk, gensim, urllib2, beautifulsoup, scrape, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Topic analysis, Web scraping, feature extraction |
 |[KalmanFiltering_ConstantVelocity](https://github.com/aless80/KalmanFiltering_ConstantVelocity) |  | <progress value="100" max="100" style="width:95px"></progress>  | Study on Kalman filters|
