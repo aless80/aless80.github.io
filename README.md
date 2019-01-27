@@ -100,7 +100,6 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 | [JSON2ngForm](https://github.com/aless80/JSON2ngForm) | Angular | <progress value="50" max="100" style="width:80px"></progress>  | Webpages based on Angular where a rubric (i.e. a "dynamic" form) can be stored to and built from json specification|
 | [gmaps-ng7](https://github.com/aless80/gmaps-ng7) | MEAN stack (MongoDB, Express, Angular, Node.js), Google Maps API, RxJS | <progress value="85" max="100" style="width:80px"></progress>  | MEAN app for searching and storing zero-waste shops on Google Maps|
 | [ngSpotify](https://github.com/aless80/ngSpotify) | Angular | <progress value="30" max="100" style="width:80px"></progress>  | Angular app for searching artists on Spotify|
-| [MEAN_notes](https://github.com/aless80/MEAN_notes) | MEAN stack (MongoDB, Express, Angular, Node.js) | <progress value="10" max="100" style="width:80px"></progress>  | TBD, MEAN stack|
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to redirect URLs|
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to change ports|
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | App to track a baby's body measurements and compare it with WHO data|
