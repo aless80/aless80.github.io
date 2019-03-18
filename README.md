@@ -61,7 +61,7 @@ Machine learning projects in Jupyter Notebooks using Python.
 
 
 Standard libraries that I use in every notebook are:  
-<a id="libs"></a> **scikit-learn, pandas, numpy, matplotlib, Jupyter**, and other common libraries. 
+<a id="libs">*</a> **scikit-learn, pandas, numpy, matplotlib, Jupyter**, and other common libraries. 
 
 <br>
 
