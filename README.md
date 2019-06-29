@@ -97,6 +97,7 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
+| [Forum Website](https://github.com/aless80/Firebase-React-BoardGameGeek) | Firebase, React | <progress value="90" max="100" style="width:80px"></progress>  | Website based on Firebase and React |
 | [Forum Website](https://github.com/aless80/Firebase-React-Forum) | Firebase, React | <progress value="100" max="100" style="width:80px"></progress>  | Forum website based on Firebase and React |
 | [MERN app](https://github.com/aless80/MERNnorsk) | MERN stack (MongoDB, Express, React/Redux, Node.js) | <progress value="20" max="100" style="width:80px"></progress>  | MERN app to practice Norwegian |
 | [React-Redux-CRUD-boilerplate](https://github.com/aless80/React-Redux-CRUD-boilerplate ) | React, Redux | <progress value="50" max="100" style="width:80px"></progress>  | Boilerplate for React with Redux, reactstrap, router, running CRUD operations on API|
