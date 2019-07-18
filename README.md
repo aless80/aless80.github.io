@@ -99,7 +99,6 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 |: ------------- |:-------------|:-----:|:-----------|
 | [Boardgame Website](https://github.com/aless80/Firebase-React-BoardGameGeek) | React, Firebase | <progress value="90" max="100" style="width:80px"></progress>  | Website for boardgame groups using the BoardGameGeek API |
 | [Forum Website](https://github.com/aless80/Firebase-React-Forum) | React, Firebase | <progress value="100" max="100" style="width:80px"></progress>  | Forum website |
-<!--| [MERN app](https://github.com/aless80/MERNnorsk) | MERN stack (MongoDB, Express, React/Redux, Node.js) | <progress value="20" max="100" style="width:80px"></progress>  | MERN app to practice Norwegian |-->
 | [React-Redux-CRUD-boilerplate](https://github.com/aless80/React-Redux-CRUD-boilerplate ) | React, Redux | <progress value="100" max="100" style="width:80px"></progress>  | Boilerplate for React with Redux, reactstrap, router, running CRUD operations on API|
 | [Zero Waste Locator](https://github.com/aless80/Zero-Waste-Locator) | MEAN stack (MongoDB, Express, Angular, Node.js), Google Maps API, RxJS | <progress value="100" max="100" style="width:80px"></progress>  | MEAN app for searching and storing zero-waste shops on Google Maps|
 | [JSON2ngForm](https://github.com/aless80/JSON2ngForm) | Angular | <progress value="100" max="100" style="width:80px"></progress>  | Webpages based on Angular where a rubric (i.e. a "dynamic" form) can be stored to and built from json specification|
@@ -107,6 +106,11 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 | [SiteRedirect](https://github.com/aless80/SiteRedirect) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to redirect URLs|
 | [IS-ports](https://github.com/aless80/IS-ports) | HTML, javascript, TamperMonkey | <progress value="100" max="100" style="width:80px"></progress>  | TemperMonkey extension to change ports|
 | [iGrow](https://github.com/aless80/iGrow) | HTML, javascript, CSS, D3 | <progress value="100" max="100" style="width:80px"></progress>  | App to track a baby's body measurements and compare it with WHO data|
+
+
+<!--
+	| [MERN app](https://github.com/aless80/MERNnorsk) | MERN stack (MongoDB, Express, React/Redux, Node.js) | <progress value="20" max="100" style="width:80px"></progress>  | MERN app to practice Norwegian |
+-->
 
 <br>
 
