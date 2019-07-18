@@ -36,6 +36,7 @@ Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to
 * [Python](#python)
 * [Web technologies](#web-technologies)
 * [InterSystems](#intersystems)
+* [Other](#other)
 
 <br>
 -------
@@ -112,6 +113,8 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 	| [MERN app](https://github.com/aless80/MERNnorsk) | MERN stack (MongoDB, Express, React/Redux, Node.js) | <progress value="20" max="100" style="width:80px"></progress>  | MERN app to practice Norwegian |
 -->
 
+
+
 <br>
 
 -------
@@ -133,6 +136,19 @@ Projects mainly involving InterSystems' technologies, in particular [Caché Obje
 |[Install-Samples-BI](https://github.com/aless80/Install-Samples-BI)| Caché ObjectScript| <progress value="100" max="100" style="width:95px"></progress>| Automatically download and install the SAMPLES namespace on a new Caché/IRIS instance |
 |[DeepSee-USNames](https://github.com/aless80/DeepSee-USNames)| DeepSee, web scraping| <progress value="100" max="100" style="width:95px"></progress>| Cube and dashboards from web scraped data|
 |[DeepSee-Erdbeben](https://github.com/aless80/DeepSee-Erdbeben)| DeepSee| <progress value="100" max="100" style="width:95px"></progress>| Cube and dashboards created from web scraped data|
+
+<br>
+
+-------
+<br>
+
+
+### Other
+
+| Repository | Technologies | Progress | Description |
+|: ------------- |:-------------|:-----:|:-----------|
+| [Syntax for the Sublime Text editor](https://github.com/aless80/PlainNotes) | Sublime Text, YAML | <progress value="100" max="100" style="width:80px"></progress>  | Highlight syntax for file editor that I use for plain text files |
+| [Mint Window Manager](https://github.com/aless80/MintWindowManager) | Linux, bash | <progress value="100" max="100" style="width:80px"></progress>  | Bash scripts for tiling windows in Linux Mint |
 
 
 <br>
