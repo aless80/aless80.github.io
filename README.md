@@ -98,7 +98,8 @@ Projects using HTML/CSS/javascript/etc. Other projects using web technologies ar
 
 | Repository | Technologies | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
-| [Boardgame Website](https://github.com/aless80/Firebase-React-BoardGameGeek) | React, Firebase | <progress value="90" max="100" style="width:80px"></progress>  | Website for boardgame groups using the BoardGameGeek API |
+| [AWS FileRepo](https://github.com/aless80/FileRepo) | AWS, React | <progress value="75" max="100" style="width:80px"></progress>  | React app for uploading/downloading files using React and AWS cloud services (Amplify, Cognito User Pools, S3 storage, etc) |
+| [Boardgame Website](https://github.com/aless80/Firebase-React-BoardGameGeek) | React, Firebase | <progress value="100" max="100" style="width:80px"></progress>  | Website for boardgame groups using the BoardGameGeek API |
 | [Forum Website](https://github.com/aless80/Firebase-React-Forum) | React, Firebase | <progress value="100" max="100" style="width:80px"></progress>  | Forum website |
 | [React-Redux-CRUD-boilerplate](https://github.com/aless80/React-Redux-CRUD-boilerplate ) | React, Redux | <progress value="100" max="100" style="width:80px"></progress>  | Boilerplate for React with Redux, reactstrap, router, running CRUD operations on API|
 | [Zero Waste Locator](https://github.com/aless80/Zero-Waste-Locator) | MEAN stack (MongoDB, Express, Angular, Node.js), Google Maps API, RxJS | <progress value="100" max="100" style="width:80px"></progress>  | MEAN app for searching and storing zero-waste shops on Google Maps|
