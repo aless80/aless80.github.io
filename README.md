@@ -51,6 +51,7 @@ Machine learning projects in Jupyter Notebooks using Python.
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords/Description |
 |: --------- |:--------------------------------------:|:-----:|
+|[PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  | Topic Modeling on Physics Education Research Conference Proceedings |
 |[NER](https://github.com/aless80/NER) | spacy | <progress value="100" max="100" style="width:95px"></progress>  | Named Entity Recognition |
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="90" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 |[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, urllib2, beautifulsoup, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Natural Language Processing, feature extraction, LDA, NMF, regular expressions |
@@ -70,14 +71,14 @@ Standard libraries that I use in every notebook are:
 <br>
 
 
-
-
 ### Python
 
 Projects based on Python. 
 
 | Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
+| [Canvas LMS data export](https://github.com/aless80/canvas-lms-data-export) | CanvasAPI | <progress value="100" max="100" style="width:95px"></progress>  | Programmatically download data from Canvas LMS
+| [DocOnce](https://github.com/doconce/doconce) |  | <progress value="75" max="100" style="width:95px"></progress>  | Maintenance and development on the DocOnce software developed at UiO
 | [Mezzanine-website](https://github.com/aless80/Mezzanine-website) | Mezzanine, Django, HTML, CSS, PostgreSQL, SQLite | <progress value="100" max="100" style="width:95px"></progress>  | Site based on Django and the Mezzanine CMS
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS, PostgreSQL, SQLite | <progress value="100" max="100" style="width:95px"></progress>  | Online resume in Django
 | [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
