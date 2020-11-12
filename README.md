@@ -15,9 +15,9 @@ td:nth-child(3) {
 }
 </style>
 -->
-## Welcome to my site on GitHub Pages
+## Welcome to my GitHub Pages
 
-Please refer to my [website](https://aless80.pythonanywhere.com/) and [GitHub account](https://github.com/aless80?tab=repositories). My site is still work in progress but I built an online resume. I will add a blog to write about technology, hacks, solutions to my daily programming. 
+Please refer to my [online CV](https://aless80.pythonanywhere.com/) and [GitHub account](https://github.com/aless80?tab=repositories). 
 
 Hereby I summarize my GitHub projects. Hopefully this TOC will make it easier to get an idea of what technologies I am using in my projects. 
 
@@ -51,6 +51,7 @@ Machine learning projects in Jupyter Notebooks using Python.
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords/Description |
 |: --------- |:--------------------------------------:|:-----:|
+|ScienceEducationLDA](https://github.com/uio-ccse/ScienceEducationLDA) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  
 |[PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  | Topic Modeling on Physics Education Research Conference Proceedings |
 |[NER](https://github.com/aless80/NER) | spacy | <progress value="100" max="100" style="width:95px"></progress>  | Named Entity Recognition |
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="90" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
@@ -78,7 +79,7 @@ Projects based on Python.
 | Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
 | [Canvas LMS data export](https://github.com/aless80/canvas-lms-data-export) | CanvasAPI | <progress value="100" max="100" style="width:95px"></progress>  | Programmatically download data from Canvas LMS
-| [DocOnce](https://github.com/doconce/doconce) |  | <progress value="75" max="100" style="width:95px"></progress>  | Maintenance and development on the DocOnce software developed at UiO
+| [DocOnce](https://github.com/doconce/doconce) |  | <progress value="75" max="100" style="width:95px"></progress>  | Maintenance and development of the DocOnce software
 | [Mezzanine-website](https://github.com/aless80/Mezzanine-website) | Mezzanine, Django, HTML, CSS, PostgreSQL, SQLite | <progress value="100" max="100" style="width:95px"></progress>  | Site based on Django and the Mezzanine CMS
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS, PostgreSQL, SQLite | <progress value="100" max="100" style="width:95px"></progress>  | Online resume in Django
 | [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
