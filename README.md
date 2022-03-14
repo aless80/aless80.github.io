@@ -79,7 +79,7 @@ Projects based on Python.
 | Repository | Technologies<br>(other than Python) | Progress | Description |
 |: ------------- |:-------------|:-----:|:-----------|
 | [Canvas LMS data export](https://github.com/aless80/canvas-lms-data-export) | CanvasAPI | <progress value="100" max="100" style="width:95px"></progress>  | Programmatically download data from Canvas LMS
-| [DocOnce](https://github.com/doconce/doconce) |  | <progress value="100" max="100" style="width:95px"></progress>  | Maintenance and development of the DocOnce software
+| [DocOnce](https://github.com/doconce/doconce) | Docker, pytest, HTML, LaTeX, Docker | <progress value="100" max="100" style="width:95px"></progress>  | Maintenance and development of the DocOnce software
 | [Mezzanine-website](https://github.com/aless80/Mezzanine-website) | Mezzanine, Django, HTML, CSS, PostgreSQL, SQLite | <progress value="100" max="100" style="width:95px"></progress>  | Site based on Django and the Mezzanine CMS
 | [Djangoresume](https://github.com/aless80/Djangoresume) | Django, HTML, CSS, PostgreSQL, SQLite | <progress value="100" max="100" style="width:95px"></progress>  | Online resume in Django
 | [PyPuma](https://github.com/aless80/PyPuma)| pandas | <progress value="100" max="100" style="width:95px"></progress> |  Translating to python a gene regulatory network reconstruction algorithm|
