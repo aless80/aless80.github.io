@@ -51,7 +51,7 @@ Machine learning projects in Jupyter Notebooks using Python.
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords/Description |
 |: --------- |:--------------------------------------:|:-----:|
-|ScienceEducationLDA](https://github.com/uio-ccse/ScienceEducationLDA) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  
+|[ScienceEducationLDA](https://github.com/uio-ccse/ScienceEducationLDA) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  
 |[PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  | Topic Modeling on Physics Education Research Conference Proceedings |
 |[NER](https://github.com/aless80/NER) | spacy | <progress value="100" max="100" style="width:95px"></progress>  | Named Entity Recognition |
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="90" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
