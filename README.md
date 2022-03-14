@@ -51,8 +51,8 @@ Machine learning projects in Jupyter Notebooks using Python.
 
 | Repository | Libraries<br>(other than <a href="#libs">*</a>) | Progress | Keywords/Description |
 |: --------- |:--------------------------------------:|:-----:|
-|[ScienceEducationLDA](https://github.com/uio-ccse/ScienceEducationLDA) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  
-|[PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  | Topic Modeling on Physics Education Research Conference Proceedings |
+|[ScienceEducationLDA](https://github.com/uio-ccse/ScienceEducationLDA) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress> | Analysis of 100 years of Science Education literature using Machine Learning and Natural Language Processing |
+|[PERC_TopicModel](https://github.com/uio-ccse/PERC_TopicModel) | Gensim, NLTK, scipy | <progress value="100" max="100" style="width:95px"></progress>  | Novel NLP algorithm to analyze topics in textual data over time |
 |[NER](https://github.com/aless80/NER) | spacy | <progress value="100" max="100" style="width:95px"></progress>  | Named Entity Recognition |
 |[Restaurant_TimeSeries](https://github.com/aless80/Restaurant_TimeSeries) | statsmodels, scipy | <progress value="90" max="100" style="width:95px"></progress>  | Time-series analysis, SARIMAX models|
 |[Presidentspeech](https://github.com/aless80/Presidentspeech) | nltk, urllib2, beautifulsoup, re, pyLDAvis, wordcloud | <progress value="100" max="100" style="width:95px"></progress>  | Natural Language Processing, feature extraction, LDA, NMF, regular expressions |
